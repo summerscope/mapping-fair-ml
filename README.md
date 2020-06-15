@@ -60,5 +60,5 @@ https://www.datagovernance.unsw.edu.au/
 **Ethics Litmus Tests**  
 [https://www.ethical-litmus.site/](https://www.ethical-litmus.site/)  
 
-
-
+**The Tarot Cards of Tech**  
+[https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/](https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/)  
