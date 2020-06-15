@@ -72,3 +72,11 @@ https://www.datagovernance.unsw.edu.au/
 **Markkula Centre for Applied Ethics - Ethics Toolkit**  
 [https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)  
 
+
+## Implicit Bias ##   
+
+**Microaggressions - the game**   
+[https://www.csteachingtips.org/cards](https://www.csteachingtips.org/cards)  
+
+
+
