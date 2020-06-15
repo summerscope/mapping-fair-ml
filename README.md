@@ -62,3 +62,10 @@ https://www.datagovernance.unsw.edu.au/
 
 **The Tarot Cards of Tech**  
 [https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/](https://www.artefactgroup.com/case-studies/the-tarot-cards-of-tech/)  
+
+**IDEO AI Ethics Cards**  
+[https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers](https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers)  
+
+**Markkula Centre for Applied Ethics - Ethics Toolkit**  
+[https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)  
+
