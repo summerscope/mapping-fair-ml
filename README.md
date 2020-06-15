@@ -8,12 +8,21 @@
 
 **Ethics Book Club** 
 
+## Newsletters ##  
+
+**Montreal AI Ethics Institute**  
+[https://aiethics.substack.com/](https://aiethics.substack.com/)
+
+**The New Design Congress**  
+[https://ndc.substack.com/subscribe](https://ndc.substack.com/subscribe)
 
 ## Advocacy &amp; Non-profits ## 
 
 **Algorithm watch**  
 [https://algorithmwatch.org/](https://algorithmwatch.org/)   
-  
+
+**The New Design Congress**  
+[https://newdesigncongress.org/](https://newdesigncongress.org/)  
   
 ## Discover academic papers ## 
 
