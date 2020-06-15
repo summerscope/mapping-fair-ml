@@ -18,7 +18,7 @@
 ## Data policy
 
 **Data Governance**
-Kate Caruthers (et al)
+Kate Caruthers (et al)  
 https://www.datagovernance.unsw.edu.au/
 
 ## Bias and harm mapping 
