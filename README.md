@@ -1,15 +1,22 @@
 # Mapping Fair ML # 
 
-## Reading groups &amp; Book clubs ##
+## Reading groups ##
 
 **Fair ML Reading Group**  
 [https://github.com/summerscope/fair-ml-reading-group](https://github.com/summerscope/fair-ml-reading-group)  
 [https://groups.io/g/fair-ml](https://groups.io/g/fair-ml)  
 
-**Montreal AI Ethics Institute - Reading Groups x 6 Themes**   
-[https://montrealethics.ai/learning-community/](https://montrealethics.ai/learning-community/). 
+**Montreal AI Ethics Institute - Reading Groups x 5 Themes**   
+[https://montrealethics.ai/learning-community/](https://montrealethics.ai/learning-community/) 
 
-**Ethics Book Club** 
+
+
+## Ethics Book Clubs ##   
+
+**AI Collaborative Network - Ethics Book Club**  
+[https://www.collaborativenetwork.ai/](https://www.collaborativenetwork.ai/)  
+_Join slack to join the book club_  
+
 
 ## Newsletters ##  
 
