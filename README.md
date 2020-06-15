@@ -54,3 +54,11 @@ https://www.datagovernance.unsw.edu.au/
 
 ## Bias and harm mapping ## 
 
+**Consequence Scanning**  
+[https://www.doteveryone.org.uk/project/consequence-scanning/](https://www.doteveryone.org.uk/project/consequence-scanning/) 
+
+**Ethics Litmus Tests**  
+[https://www.ethical-litmus.site/](https://www.ethical-litmus.site/)  
+
+
+
