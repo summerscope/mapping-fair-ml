@@ -17,7 +17,7 @@
 
 ## Data policy
 
-**Data Governance**
+**Data Governance**  
 Kate Caruthers (et al)  
 https://www.datagovernance.unsw.edu.au/
 
