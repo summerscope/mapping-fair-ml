@@ -50,7 +50,10 @@ _Join slack to join the book club_
 
 **Data Governance**  
 Kate Caruthers (et al)  
-https://www.datagovernance.unsw.edu.au/
+https://www.datagovernance.unsw.edu.au/  
+
+**ODI - Data Ethics Canvas**  
+[https://theodi.org/article/data-ethics-canvas/](https://theodi.org/article/data-ethics-canvas/)  
 
 ## Bias and harm mapping ## 
 
