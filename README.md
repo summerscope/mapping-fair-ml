@@ -2,7 +2,7 @@
 
 ## Reading groups &amp; Book clubs
 
-**Fair ML Reading Group** 
+**Fair ML Reading Group**  
 [https://github.com/summerscope/fair-ml-reading-group](https://github.com/summerscope/fair-ml-reading-group)  
 [https://groups.io/g/fair-ml](https://groups.io/g/fair-ml)  
 
