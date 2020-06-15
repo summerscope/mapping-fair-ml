@@ -15,7 +15,7 @@
 
 **AI Collaborative Network - Ethics Book Club**  
 [https://www.collaborativenetwork.ai/](https://www.collaborativenetwork.ai/)  
-[https://docs.google.com/spreadsheets/d/1Ex8MFdb6tjmYXKXlpHmNtO3tJ35aOul0lCXiWBU38n4/edit#gid=0](Reading list)  
+[Reading list](https://docs.google.com/spreadsheets/d/1Ex8MFdb6tjmYXKXlpHmNtO3tJ35aOul0lCXiWBU38n4/edit#gid=0)  
 _Join slack to join the book club_  
 
 
