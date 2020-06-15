@@ -6,6 +6,9 @@
 [https://github.com/summerscope/fair-ml-reading-group](https://github.com/summerscope/fair-ml-reading-group)  
 [https://groups.io/g/fair-ml](https://groups.io/g/fair-ml)  
 
+**Montreal AI Ethics Institute - Reading Groups x 6 Themes**   
+[https://montrealethics.ai/learning-community/](https://montrealethics.ai/learning-community/). 
+
 **Ethics Book Club** 
 
 ## Newsletters ##  
