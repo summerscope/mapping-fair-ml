@@ -1,5 +1,7 @@
 # Mapping Fair ML # 
 
+This is a working list of resources for people working with technology ethics. It has an Australian slant as that reflects my networks, and I'll work on adding some intros / shaping to the links. Pull requests and suggestions welcome.    
+
 ## Reading groups ##
 
 **Fair ML Reading Group**  
@@ -34,7 +36,10 @@ _Join slack to join the book club_
 
 **The New Design Congress**  
 [https://newdesigncongress.org/](https://newdesigncongress.org/)  
-  
+
+**Responsible Technology Australia**  
+[https://responsibletechnology.org.au/](https://responsibletechnology.org.au/)   
+
 ## Discover academic papers ## 
 
 **fairXiv**  
