@@ -40,6 +40,9 @@ _Join slack to join the book club_
 **Responsible Technology Australia**  
 [https://responsibletechnology.org.au/](https://responsibletechnology.org.au/)   
 
+**Algorithmic Justice League**  
+[https://www.ajlunited.org/](https://www.ajlunited.org/)  
+
 ## Discover academic papers ## 
 
 **fairXiv**  
