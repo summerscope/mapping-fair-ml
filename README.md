@@ -43,6 +43,10 @@ _Join slack to join the book club_
 **Algorithmic Justice League**  
 [https://www.ajlunited.org/](https://www.ajlunited.org/)  
 
+**The Ethics Centre**  
+[https://ethics.org.au/](https://ethics.org.au/)  
+
+
 ## Discover academic papers ## 
 
 **fairXiv**  
