@@ -2,6 +2,18 @@
 
 This is a working list of resources for people working with technology ethics. It has an Australian slant as that reflects my networks, and I'll work on adding some intros / shaping to the links. Pull requests and suggestions welcome.    
 
+**Table of contents**  
+
+1. [Reading Groups](#reading-groups)  
+2. [Book Clubs](#book-clubs)  
+3. [Newsletters](#newsletters)   
+4. [Advocacy and Non-profits](#advocacy-and-non-profits)  
+5. [Academic papers](#academic-papers)  
+6. [Data policy](#data-policy)  
+7. [Bias and harm mapping](#bias-and-harm-mapping)  
+8. [Implicit Bias](#implicit-bias)  
+
+
 ## Reading groups ##
 
 **Fair ML Reading Group**  
@@ -13,7 +25,7 @@ This is a working list of resources for people working with technology ethics. I
 
 
 
-## Ethics Book Clubs ##   
+## Book Clubs ##   
 
 **AI Collaborative Network - Ethics Book Club**  
 [https://www.collaborativenetwork.ai/](https://www.collaborativenetwork.ai/)  
@@ -29,7 +41,7 @@ _Join slack to join the book club_
 **The New Design Congress**  
 [https://ndc.substack.com/subscribe](https://ndc.substack.com/subscribe)
 
-## Advocacy &amp; Non-profits ## 
+## Advocacy and Non-profits ## 
 
 **Algorithm watch**  
 [https://algorithmwatch.org/](https://algorithmwatch.org/)   
@@ -47,7 +59,7 @@ _Join slack to join the book club_
 [https://ethics.org.au/](https://ethics.org.au/)  
 
 
-## Discover academic papers ## 
+## Academic papers ## 
 
 **fairXiv**  (fair • kive)    
 [https://fairxiv.org](https://fairxiv.org) 
