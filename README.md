@@ -49,7 +49,7 @@ _Join slack to join the book club_
 
 ## Discover academic papers ## 
 
-**fairXiv**  
+**fairXiv** fair • kive    
 [https://fairxiv.org](https://fairxiv.org) 
 
 
