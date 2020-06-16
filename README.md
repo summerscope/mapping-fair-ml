@@ -11,7 +11,7 @@ This is a working list of resources for people working with technology ethics. I
 5. [Academic papers](#academic-papers)  
 6. [Data policy](#data-policy)  
 7. [Bias and harm mapping](#bias-and-harm-mapping)  
-8. [Implicit Bias](#implicit-bias)  
+8. [Cognitive Bias](#cognitive-bias)  
 
 
 ## Reading groups ##
@@ -92,10 +92,14 @@ https://www.datagovernance.unsw.edu.au/
 [https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)  
 
 
-## Implicit Bias ##   
+## Cognitive Bias ##   
 
 **Microaggressions - the game**   
 [https://www.csteachingtips.org/cards](https://www.csteachingtips.org/cards)  
+
+**Mental Models Weekly**  
+Julia Clavien breaks down cognitive bias and other mental models in this excellent newsletter.  
+[http://www.mmweekly.com/](http://www.mmweekly.com/)  
 
 
 
