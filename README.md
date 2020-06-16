@@ -17,7 +17,7 @@ This is a working list of resources for people working with technology ethics. I
 
 **AI Collaborative Network - Ethics Book Club**  
 [https://www.collaborativenetwork.ai/](https://www.collaborativenetwork.ai/)  
-[Reading list](https://docs.google.com/spreadsheets/d/1Ex8MFdb6tjmYXKXlpHmNtO3tJ35aOul0lCXiWBU38n4/edit#gid=0)  
+[Reading list - google sheets](https://docs.google.com/spreadsheets/d/1Ex8MFdb6tjmYXKXlpHmNtO3tJ35aOul0lCXiWBU38n4/edit#gid=0)  
 _Join slack to join the book club_  
 
 
