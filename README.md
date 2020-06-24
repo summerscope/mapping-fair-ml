@@ -41,6 +41,10 @@ _Join slack to join the book club_
 **The New Design Congress**  
 [https://ndc.substack.com/subscribe](https://ndc.substack.com/subscribe)
 
+**AI + Ethics Weekly**  
+[https://lighthouse3.com/newsletter/](https://lighthouse3.com/newsletter/)
+
+
 ## Advocacy and Non-profits ## 
 
 **Algorithm watch**  
