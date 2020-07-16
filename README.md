@@ -44,6 +44,11 @@ _Join slack to join the book club_
 **AI + Ethics Weekly**  
 [https://lighthouse3.com/newsletter/](https://lighthouse3.com/newsletter/)
 
+**CAIDE - Centre for Artificial Intelligence and Digital Ethics (University of Melbourne)**  
+[https://law.unimelb.edu.au/centres/caide](https://law.unimelb.edu.au/centres/caide)  
+Join mailing list:   
+[https://law.unimelb.edu.au/centres/caide/contact-us/join-our-mailing-list](https://law.unimelb.edu.au/centres/caide/contact-us/join-our-mailing-list)  
+
 
 ## Advocacy and Non-profits ## 
 
@@ -95,7 +100,9 @@ https://www.datagovernance.unsw.edu.au/
 **Markkula Centre for Applied Ethics - Ethics Toolkit**  
 [https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)  
 
-
+**Ethics Explorer Toolkit - OMIDYAR Network**   
+[https://ethicalexplorer.org/download/](https://ethicalexplorer.org/download/)  
+ 
 ## Cognitive Bias ##   
 
 **Microaggressions - the game**   
