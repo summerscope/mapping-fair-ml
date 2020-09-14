@@ -11,7 +11,8 @@ This is a working list of resources for people working with technology ethics. I
 5. [Academic papers](#academic-papers)  
 6. [Data policy](#data-policy)  
 7. [Bias and harm mapping](#bias-and-harm-mapping)  
-8. [Cognitive Bias](#cognitive-bias)  
+8. [Cognitive Bias](#cognitive-bias)   
+9. [Comics](#comics)  
 
 
 ## Reading groups ##
@@ -83,6 +84,9 @@ https://www.datagovernance.unsw.edu.au/
 **ODI - Data Ethics Canvas**  
 [https://theodi.org/article/data-ethics-canvas/](https://theodi.org/article/data-ethics-canvas/)  
 
+**Treaty of Waitangi/Te Tiriti and Māori Ethics Guidelines for: AI, Algorithms, Data and IOT**  
+[https://www.taiuru.maori.nz/tiritiethicalguide/](https://www.taiuru.maori.nz/tiritiethicalguide/)
+
 ## Bias and harm mapping ## 
 
 **Consequence Scanning**  
@@ -102,6 +106,9 @@ https://www.datagovernance.unsw.edu.au/
 
 **Ethics Explorer Toolkit - OMIDYAR Network**   
 [https://ethicalexplorer.org/download/](https://ethicalexplorer.org/download/)  
+
+**The Designated Dissenter**  
+[https://www.thedesignateddissenter.com/](https://www.thedesignateddissenter.com/)
  
 ## Cognitive Bias ##   
 
@@ -113,4 +120,8 @@ Julia Clavien breaks down cognitive bias and other mental models in this excelle
 [http://www.mmweekly.com/](http://www.mmweekly.com/)  
 
 
+## Comics ##
 
+**Data, Responsibly**   
+A comic series by Falaah Arif Khan and Julia Stoyanovich   
+[https://dataresponsibly.github.io/comics/](https://dataresponsibly.github.io/comics/)
