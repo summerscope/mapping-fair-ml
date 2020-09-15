@@ -108,7 +108,10 @@ https://www.datagovernance.unsw.edu.au/
 [https://ethicalexplorer.org/download/](https://ethicalexplorer.org/download/)  
 
 **The Designated Dissenter**  
-[https://www.thedesignateddissenter.com/](https://www.thedesignateddissenter.com/)
+[https://www.thedesignateddissenter.com/](https://www.thedesignateddissenter.com/)  
+  
+**AI Blind Spots - card pack**  
+[https://aiblindspot.media.mit.edu/](https://aiblindspot.media.mit.edu/)  
  
 ## Cognitive Bias ##   
 
