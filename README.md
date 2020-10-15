@@ -50,6 +50,8 @@ _Join slack to join the book club_
 Join mailing list:   
 [https://law.unimelb.edu.au/centres/caide/contact-us/join-our-mailing-list](https://law.unimelb.edu.au/centres/caide/contact-us/join-our-mailing-list)  
 
+**Empathic Computing Research Group**
+[https://unisa.edu.au/research/ive/our-research/empathic-computing/](https://unisa.edu.au/research/ive/our-research/empathic-computing/)
 
 ## Advocacy and Non-profits ## 
 
@@ -67,6 +69,12 @@ Join mailing list:
 
 **The Ethics Centre**  
 [https://ethics.org.au/](https://ethics.org.au/)  
+
+**Data and Society**
+[https://datasociety.net/](https://datasociety.net/)
+
+**Center for Humane Technology**
+[https://www.humanetech.com/](https://www.humanetech.com/)
 
 
 ## Academic papers ## 
@@ -112,6 +120,9 @@ https://www.datagovernance.unsw.edu.au/
   
 **AI Blind Spots - card pack**  
 [https://aiblindspot.media.mit.edu/](https://aiblindspot.media.mit.edu/)  
+
+**Ethical Visualization - bias and harm mapping in visualization**
+[https://kathep.github.io/ethics/](https://kathep.github.io/ethics/)
  
 ## Cognitive Bias ##   
 
