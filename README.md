@@ -14,6 +14,7 @@ This is a working list of resources for people working with technology ethics. I
 8. [Cognitive Bias](#cognitive-bias)   
 9. [Comics](#comics)  
 10. [Lists](#lists)
+11. [Books](#books)
 
 
 ## Reading groups ##
@@ -143,3 +144,10 @@ A comic series by Falaah Arif Khan and Julia Stoyanovich
 **Awesome AI Guidelines**   
 This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.  
 [https://github.com/EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+
+
+## Books ##  
+  
+**AI Ethics by Mark Coeckelbergh**  
+An accessible synthesis of ethical issues raised by artificial intelligence that moves beyond hype and nightmare scenarios to address concrete questions.  
+[https://mitpress.mit.edu/books/ai-ethics](https://mitpress.mit.edu/books/ai-ethics)
