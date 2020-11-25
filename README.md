@@ -141,4 +141,5 @@ A comic series by Falaah Arif Khan and Julia Stoyanovich
 ## Lists ##  
   
 **Awesome AI Guidelines**   
+This repository aims to simplify this by mapping the ecosystem of guidelines, principles, codes of ethics, standards and regulation being put in place around artificial intelligence.  
 [https://github.com/EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
