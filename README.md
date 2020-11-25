@@ -13,6 +13,7 @@ This is a working list of resources for people working with technology ethics. I
 7. [Bias and harm mapping](#bias-and-harm-mapping)  
 8. [Cognitive Bias](#cognitive-bias)   
 9. [Comics](#comics)  
+10. [Lists](#lists)
 
 
 ## Reading groups ##
@@ -136,3 +137,8 @@ Julia Clavien breaks down cognitive bias and other mental models in this excelle
 **Data, Responsibly**   
 A comic series by Falaah Arif Khan and Julia Stoyanovich   
 [https://dataresponsibly.github.io/comics/](https://dataresponsibly.github.io/comics/)
+
+## Lists ##  
+  
+**Awesome AI Guidelines**   
+[https://github.com/EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
