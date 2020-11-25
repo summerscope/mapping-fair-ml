@@ -112,6 +112,9 @@ https://www.datagovernance.unsw.edu.au/
   
 **AI Blind Spots - card pack**  
 [https://aiblindspot.media.mit.edu/](https://aiblindspot.media.mit.edu/)  
+  
+**The Black Mirror Test (podcast)**   
+[https://www.mindtheproduct.com/the-black-mirror-test-roisi-proven-on-the-product-experience/](https://www.mindtheproduct.com/the-black-mirror-test-roisi-proven-on-the-product-experience/)
  
 ## Cognitive Bias ##   
 
