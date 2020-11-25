@@ -87,6 +87,11 @@ https://www.datagovernance.unsw.edu.au/
 **Treaty of Waitangi/Te Tiriti and Māori Ethics Guidelines for: AI, Algorithms, Data and IOT**  
 [https://www.taiuru.maori.nz/tiritiethicalguide/](https://www.taiuru.maori.nz/tiritiethicalguide/)
 
+**DEON**  
+_An ethics checklist for data scientists_  
+deon is a command line tool that allows you to easily add an ethics checklist to your data science projects. We support creating a new, standalone checklist file or appending a checklist to an existing analysis in many common formats.  
+[https://deon.drivendata.org/](https://deon.drivendata.org/)
+
 ## Bias and harm mapping ## 
 
 **Consequence Scanning**  
