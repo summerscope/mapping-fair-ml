@@ -122,6 +122,9 @@ deon is a command line tool that allows you to easily add an ethics checklist to
   
 **The Black Mirror Test (podcast)**   
 [https://www.mindtheproduct.com/the-black-mirror-test-roisi-proven-on-the-product-experience/](https://www.mindtheproduct.com/the-black-mirror-test-roisi-proven-on-the-product-experience/)
+  
+**Black Mirror Speculation**  
+[https://howwegettonext.com/the-black-mirror-writers-room-teaching-technology-ethics-through-speculation-f1a9e2deccf4](https://howwegettonext.com/the-black-mirror-writers-room-teaching-technology-ethics-through-speculation-f1a9e2deccf4)
  
 ## Cognitive Bias ##   
 
