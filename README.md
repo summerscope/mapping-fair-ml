@@ -12,6 +12,7 @@ This is a working list of resources for people working with technology ethics. I
 6. [Data policy](#data-policy)  
 7. [Bias and harm mapping](#bias-and-harm-mapping)  
 8. [Cognitive Bias](#cognitive-bias)   
+9. [Incident mapping](#incident-mapping)
 9. [Comics](#comics)  
 10. [Lists](#lists)
 11. [Books](#books)
@@ -128,6 +129,15 @@ deon is a command line tool that allows you to easily add an ethics checklist to
   
 **Black Mirror Brainstorm - a product design exercise**  
 [https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c](https://uxdesign.cc/black-mirror-brainstorms-f919ccf5938c)  
+   
+## Incident Mapping ##   
+   
+**AI Incident Database (AIID)**  
+[https://www.partnershiponai.org/aiincidentdatabase/](https://www.partnershiponai.org/aiincidentdatabase/)  
+[https://incidentdatabase.ai/](https://incidentdatabase.ai/)  
+  
+**Awful AI**   
+[https://github.com/daviddao/awful-ai](https://github.com/daviddao/awful-ai)   
 
 ## Cognitive Bias ##   
 
