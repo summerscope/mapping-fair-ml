@@ -108,6 +108,9 @@ deon is a command line tool that allows you to easily add an ethics checklist to
 
 **IDEO AI Ethics Cards**  
 [https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers](https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers)  
+  
+**33A AI Ethics Cards**  
+[https://www.33a.ai/ethics-1](https://www.33a.ai/ethics-1)  
 
 **Markkula Centre for Applied Ethics - Ethics Toolkit**  
 [https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/](https://www.scu.edu/ethics-in-technology-practice/ethical-toolkit/)  
