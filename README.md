@@ -7,15 +7,16 @@ This is a working list of resources for people working with technology ethics. I
 1. [Reading Groups](#reading-groups)  
 2. [Book Clubs](#book-clubs)  
 3. [Newsletters](#newsletters)   
-4. [Advocacy and Non-profits](#advocacy-and-non-profits)  
-5. [Academic papers](#academic-papers)  
-6. [Data policy](#data-policy)  
-7. [Bias and harm mapping](#bias-and-harm-mapping)  
-8. [Cognitive Bias](#cognitive-bias)   
-9. [Incident mapping](#incident-mapping)
-9. [Comics](#comics)  
-10. [Lists](#lists)
-11. [Books](#books)
+4. [Free online courses](#free-online-courses)  
+5. [Advocacy and Non-profits](#advocacy-and-non-profits)  
+6. [Academic papers](#academic-papers)  
+7. [Data policy](#data-policy)  
+8. [Bias and harm mapping](#bias-and-harm-mapping)  
+9. [Cognitive Bias](#cognitive-bias)   
+10. [Incident mapping](#incident-mapping)
+11. [Comics](#comics)  
+12. [Lists](#lists)
+13. [Books](#books)
 
 
 ## Reading groups ##
@@ -52,6 +53,14 @@ _Join slack to join the book club_
 [https://law.unimelb.edu.au/centres/caide](https://law.unimelb.edu.au/centres/caide)  
 Join mailing list:   
 [https://law.unimelb.edu.au/centres/caide/contact-us/join-our-mailing-list](https://law.unimelb.edu.au/centres/caide/contact-us/join-our-mailing-list)  
+
+## Free online courses ##  
+
+**Kaggle course: Intro to AI Ethics**  
+[https://www.kaggle.com/learn/intro-to-ai-ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)   
+
+**Fast AI: Practical Data Ethics**    
+[https://ethics.fast.ai/](https://ethics.fast.ai/)  
 
 
 ## Advocacy and Non-profits ## 
