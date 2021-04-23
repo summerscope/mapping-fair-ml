@@ -133,6 +133,9 @@ deon is a command line tool that allows you to easily add an ethics checklist to
 **AI Blind Spots - card pack**  
 [https://aiblindspot.media.mit.edu/](https://aiblindspot.media.mit.edu/)  
   
+**Cards for humanity**  
+[https://cardsforhumanity.idean.com/](https://cardsforhumanity.idean.com/)  
+     
 **The Black Mirror Test (podcast)**   
 [https://www.mindtheproduct.com/the-black-mirror-test-roisi-proven-on-the-product-experience/](https://www.mindtheproduct.com/the-black-mirror-test-roisi-proven-on-the-product-experience/)
   
