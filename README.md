@@ -108,10 +108,10 @@ deon is a command line tool that allows you to easily add an ethics checklist to
 
 ## ML UX ##  
 
-**HAX Design Library**  
-Guidlines, design pattern libraries and examples. 
-[https://www.microsoft.com/en-us/haxtoolkit/library/](https://www.microsoft.com/en-us/haxtoolkit/library/)  
-[Intro presentation video](https://www.youtube.com/watch?v=_dDbDfQNymw&t=710s&ab_channel=MLUXmeetup)  
+**HAX Design Library**   
+Guidlines, design pattern libraries and examples.   
+[https://www.microsoft.com/en-us/haxtoolkit/library/](https://www.microsoft.com/en-us/haxtoolkit/library/)   
+[Intro presentation video](https://www.youtube.com/watch?v=_dDbDfQNymw&t=710s&ab_channel=MLUXmeetup)   
 
 
 ## Bias and harm mapping ## 
