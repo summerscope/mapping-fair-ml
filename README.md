@@ -11,12 +11,13 @@ This is a working list of resources for people working with technology ethics. I
 5. [Advocacy and Non-profits](#advocacy-and-non-profits)  
 6. [Academic papers](#academic-papers)  
 7. [Data policy](#data-policy)  
-8. [Bias and harm mapping](#bias-and-harm-mapping)  
-9. [Cognitive Bias](#cognitive-bias)   
-10. [Incident mapping](#incident-mapping)
-11. [Comics](#comics)  
-12. [Lists](#lists)
-13. [Books](#books)
+8. [ML UX](#ml-ux)  
+9. [Bias and harm mapping](#bias-and-harm-mapping)  
+10. [Cognitive Bias](#cognitive-bias)   
+11. [Incident mapping](#incident-mapping)
+12. [Comics](#comics)  
+13. [Lists](#lists)
+14. [Books](#books)
 
 
 ## Reading groups ##
@@ -103,6 +104,15 @@ https://www.datagovernance.unsw.edu.au/
 _An ethics checklist for data scientists_  
 deon is a command line tool that allows you to easily add an ethics checklist to your data science projects. We support creating a new, standalone checklist file or appending a checklist to an existing analysis in many common formats.  
 [https://deon.drivendata.org/](https://deon.drivendata.org/)
+
+
+## ML UX ##  
+
+**HAX Design Library**  
+Guidlines, design pattern libraries and examples. 
+[https://www.microsoft.com/en-us/haxtoolkit/library/](https://www.microsoft.com/en-us/haxtoolkit/library/)  
+[Intro presentation video](https://www.youtube.com/watch?v=_dDbDfQNymw&t=710s&ab_channel=MLUXmeetup)  
+
 
 ## Bias and harm mapping ## 
 
