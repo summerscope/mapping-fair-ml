@@ -18,6 +18,7 @@ This is a working list of resources for people working with technology ethics. I
 12. [Comics](#comics)  
 13. [Lists](#lists)
 14. [Books](#books)
+15. [Tools](#tools)
 
 
 ## Reading groups ##
@@ -61,8 +62,10 @@ Join mailing list:
 [https://www.kaggle.com/learn/intro-to-ai-ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)   
 
 **Fast AI: Practical Data Ethics**    
-[https://ethics.fast.ai/](https://ethics.fast.ai/)  
+[https://ethics.fast.ai/](https://ethics.fast.ai/)
 
+**Calmcode: An Introduction to Scikit-Learn with an Ethics Warning**    
+[https://calmcode.io/scikit-learn/introduction.html](https://calmcode.io/scikit-learn/introduction.html)
 
 ## Advocacy and Non-profits ## 
 
@@ -192,3 +195,10 @@ This repository aims to simplify this by mapping the ecosystem of guidelines, pr
 **AI Ethics by Mark Coeckelbergh**  
 An accessible synthesis of ethical issues raised by artificial intelligence that moves beyond hype and nightmare scenarios to address concrete questions.  
 [https://mitpress.mit.edu/books/ai-ethics](https://mitpress.mit.edu/books/ai-ethics)
+
+
+## Tools ## 
+
+**FairLearn**   
+A scikit-learn compatible toolkit to assess and mitigate fairness issues.   
+[https://fairlearn.org/](https://fairlearn.org/)
